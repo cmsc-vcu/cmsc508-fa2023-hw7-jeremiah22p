@@ -211,8 +211,6 @@ Let's explore the database!
 
 # List skill names, tags, and descriptions ordered by name
 
-(here a sample query)
-
 ```{python}
 sql = f"""
 SELECT
